@@ -9,6 +9,6 @@
         }
     ],
     "autoload": {
-        "psr-0": {"Gotohr": "src/"}
+        "psr-0": {"Validation": "src/"}
     }
 }
