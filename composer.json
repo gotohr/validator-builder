@@ -1,0 +1,14 @@
+{
+    "name": "gotohr/validator-builder",
+    "description": "php wrapped closures example",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Ljubo Čanić",
+            "email": "ljubo@goto.hr"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"Gotohr": "src/"}
+    }
+}
