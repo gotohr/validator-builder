@@ -15,7 +15,6 @@ $validator = new Validator();
 $validation = $validator
     ->add(Validators\Data::foo($ble))
     ->add(Validators\Data::bar($ble))
-    ->validate()
 ;
 
 echo $validator->validate()->getMessage() . PHP_EOL;
